@@ -67,3 +67,9 @@ p {
     background-color: var(--Light__gray);
 }
 
+@media(min-width: 23.4375em){
+    .main{
+        margin: 150px auto;
+    }
+}
+
